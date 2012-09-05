@@ -45,6 +45,11 @@
   <ItemGroup>
     <Compile Include="Arrays\PairEqualsGivenSum.cs" />
     <Compile Include="Arrays\UniqueTripletsOfSumZero.cs" />
+    <Compile Include="BinarySearchTrees\BST.cs" />
+    <Compile Include="BinarySearchTrees\HasRootToLeafSumPath.cs" />
+    <Compile Include="BinarySearchTrees\IsBinarySearchTree.cs" />
+    <Compile Include="BinarySearchTrees\PrintPathsRootToLeaf.cs" />
+    <Compile Include="BinarySearchTrees\SameTree.cs" />
     <Compile Include="Maths\ModeAndFrequency.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using CodingInterview.Array;
+using CodingInterview.BinarySearchTrees;
 using CodingInterview.Maths;
 using CodingInterview.Recursion;
 
@@ -15,8 +16,32 @@ namespace CodingInterview
 		{
 			//UniqueTripletsOfSumZero.run();
 			//PairEqualsGivenSum.run();
-			ModeAndFrequency.run();
-		
+			//ModeAndFrequency.run();
+
+			var bst1 = new BST();
+			bst1.Insert(12);
+			bst1.Insert(6);
+			bst1.Insert(22);
+			bst1.Insert(18);
+			bst1.Insert(14);
+			bst1.Insert(13);
+			bst1.Insert(12);
+
+			//var bst2 = new BST();
+			//bst2.Insert(12);
+			//bst2.Insert(6);
+			//bst2.Insert(22);
+			//bst2.Insert(18);
+			//bst2.Insert(14);
+			//bst2.Insert(13);
+			//bst2.Insert(12);
+
+			//var tree = new SameTree();
+
+			//Console.WriteLine(tree.AreSame(bst1, bst2));
+
+			Console.WriteLine(new IsBinarySearchTree().IsBST(bst1));
+
 		}
 	}
 }

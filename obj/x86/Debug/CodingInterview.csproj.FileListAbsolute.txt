@@ -3,3 +3,8 @@ C:\OfficeProjects\CodingInterview\CodingInterview\CodingInterview\bin\Debug\Codi
 C:\OfficeProjects\CodingInterview\CodingInterview\CodingInterview\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\OfficeProjects\CodingInterview\CodingInterview\CodingInterview\obj\x86\Debug\CodingInterview.exe
 C:\OfficeProjects\CodingInterview\CodingInterview\CodingInterview\obj\x86\Debug\CodingInterview.pdb
+C:\OfficeProjects\CodingInterview\obj\x86\Debug\CodingInterview.exe
+C:\OfficeProjects\CodingInterview\obj\x86\Debug\CodingInterview.pdb
+C:\OfficeProjects\CodingInterview\bin\Debug\CodingInterview.exe
+C:\OfficeProjects\CodingInterview\bin\Debug\CodingInterview.pdb
+C:\OfficeProjects\CodingInterview\obj\x86\Debug\ResolveAssemblyReference.cache

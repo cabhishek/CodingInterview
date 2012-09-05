@@ -7,7 +7,10 @@ namespace CodingInterview.Maths
 	{
 		public static void run()
 		{
-			int[] arr = {1, 2, 3, 4, 5, 6, 6, 7, 7, 7,6,6,6,6,6,6,6,6,6,6,6,6,6,6,7,7,7,7,7,77,7,3,3,3,3,3,3,3,3,3,3,3,3,3,7,8,8,9,9,5,5,4,3, 7,8,8};
+			int[] arr = {
+			            	1, 2, 3, 4, 5, 6, 6, 7, 7, 7, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 77, 7, 3, 3, 3, 3
+			            	, 3, 3, 3, 3, 3, 3, 3, 3, 3, 7, 8, 8, 9, 9, 5, 5, 4, 3, 7, 8, 8
+			            };
 			PrintModeAndFrequency(arr);
 
 			Thread.Sleep(1000);
@@ -41,7 +44,7 @@ namespace CodingInterview.Maths
 						finalFrequency = currentFreq; // copy new frequency
 					}
 
-					currentFreq = 1;  //reset
+					currentFreq = 1; //reset
 				}
 
 				//move ahead

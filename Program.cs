@@ -1,18 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading;
-using CodingInterview.Array;
 using CodingInterview.BinarySearchTrees;
-using CodingInterview.Maths;
-using CodingInterview.Recursion;
 
 namespace CodingInterview
 {
-	class Program
+	internal class Program
 	{
-		static void Main(string[] args)
+		private static void Main(string[] args)
 		{
 			//UniqueTripletsOfSumZero.run();
 			//PairEqualsGivenSum.run();
@@ -41,7 +34,6 @@ namespace CodingInterview
 			//Console.WriteLine(tree.AreSame(bst1, bst2));
 
 			Console.WriteLine(new IsBinarySearchTree().IsBST(bst1));
-
 		}
 	}
 }

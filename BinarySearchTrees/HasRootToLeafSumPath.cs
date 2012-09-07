@@ -17,7 +17,7 @@
 			{
 				//reduce problem set
 				int subSum = sum - node.data;
-				//sum == 0 could be in left or right sub tree.
+				//sum == 0 could be in left OR right sub tree.
 				return recHasSumPath(node.left, subSum) || recHasSumPath(node.right, subSum);
 			}
 		}

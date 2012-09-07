@@ -50,7 +50,6 @@
     <Compile Include="BinarySearchTrees\IsBinarySearchTree.cs" />
     <Compile Include="BinarySearchTrees\PrintPathsRootToLeaf.cs" />
     <Compile Include="BinarySearchTrees\SameTree.cs" />
-    <Compile Include="HashMaps\LinearProbingHashMap.cs" />
     <Compile Include="Maths\Fibonacci.cs" />
     <Compile Include="Maths\GCD.cs" />
     <Compile Include="Maths\GeneratePrimeNumbers.cs" />
@@ -60,14 +59,11 @@
     <Compile Include="Maths\ToDecimal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Recursion\PermutationSignature-TopCoder.cs" />
     <Compile Include="Strings\DuplicatesInString.cs" />
+    <Compile Include="Recursion\PermutationSignature-TopCoder.cs" />
     <Compile Include="Strings\RemoveChar.cs" />
     <Compile Include="Strings\ReverseWordsInAString.cs" />
     <Compile Include="Strings\StringPermute.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="LinkedList\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

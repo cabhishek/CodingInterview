@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CodingPractice.Strings
+namespace CodingInterview.Recursion
 {
 	public static class PermutationSignature_TopCoder
 	{

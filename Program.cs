@@ -32,18 +32,9 @@ namespace CodingInterview
 			//bst2.Insert(12);
 
 			//var tree = new SameTree();
+				
+			QuickSelect.run();
 
-			var map = new LinearProbingHashMap(5);
-
-			map.Put(1023, "Apple");
-			map.Put(1123, "Samsung");
-			map.Put(1323, "Toyota");
-			map.Put(1433, "Microsoft");
-			//map.Put(1093, "Square");
-			//map.Put(1983, "Twitter");
-			//map.Put(1013, "Google");
-
-			Console.WriteLine(map.Get(1023));
 			//Console.WriteLine(tree.AreSame(bst1, bst2));
 
 			//Console.WriteLine(new IsBinarySearchTree().IsBST(bst1));

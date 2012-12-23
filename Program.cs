@@ -33,7 +33,7 @@ namespace CodingInterview
 
 			//var tree = new SameTree();
 				
-			QuickSelect.run();
+			//QuickSelect.run();
 
 			//Console.WriteLine(tree.AreSame(bst1, bst2));
 

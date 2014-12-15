@@ -1,1 +1,1 @@
-# Common programming questions to prepare before an coding interview.
+### Simple programming interview questions to practice. 
